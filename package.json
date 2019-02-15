@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhjjack/mydc-api.git"
+    "url": "git+https://github.com/zhjjack/mydc-api.git"  
   },
   "keywords": [
     "扫码点餐",
